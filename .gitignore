@@ -1,0 +1,11 @@
+# Compiled programs
+*.o
+*.exe
+*.out
+a.out
+build/
+*.dSYM/
+*.db
+.vscode/
+.idea/
+site/index.html
